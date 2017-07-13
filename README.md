@@ -1,10 +1,10 @@
 # X-Project
 As I do not have enough time for X-project. So I decide to open source this project.
 
+X-project is designed for beginners to fast learn ESP8266 and ESP32.
+
 I hope everyone could improve it and build their own X-modules.
     
-Recently I am improving D-duino and wifi deauther boards. 
-
 I made some projects by these modules:
 
 http://www.instructables.com/member/lspoplove/
